@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/default.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/mongo.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/comments.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/posts.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/users.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/posts.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/signin.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/signout.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/signup.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/avatar.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/components/comments.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/components/nav-setting.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/components/post-content.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/create.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/edit.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/error.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/posts.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/signin.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/signup.ejs" charset="UTF-8" />
+  </component>
+</project>
